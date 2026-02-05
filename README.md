@@ -81,7 +81,6 @@ Masukkan ID angka berikut pada parameter `parameter_negara`:
 
 ### 📜 Lisensi & Penulis
 * **Penulis:** Rida Rahman DH 96-02
-* **GitHub:** [RidhaHaja](https://github.com/RidhaHaja)
 * **Lisensi:** MIT (Bebas digunakan dan dimodifikasi untuk tujuan apa pun).
 
 ---
