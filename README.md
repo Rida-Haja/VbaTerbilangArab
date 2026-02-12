@@ -24,12 +24,14 @@
 
 ## 🔧 Instalasi / Installation
 
-1.  **ID:** Buka Excel → `ALT + F11` → **Insert** > **Module** → *Paste* kode.
-    **EN:** Open Excel → `ALT + F11` → **Insert** > **Module** → *Paste* the code.
-2.  **ID:** Simpan file sebagai **Excel Macro-Enabled Workbook (.xlsm)**.
-    **EN:** Save the file as **Excel Macro-Enabled Workbook (.xlsm)**.
-3.  **ID:** Jalankan makro `RegisterArabFunctions` (opsional) untuk deskripsi fungsi.
-    **EN:** Run the `RegisterArabFunctions` macro (optional) for function descriptions.
+1. **ID:** Buka Excel → ALT + F11 → Insert > Module → Paste kode.
+   **EN:** Open Excel → ALT + F11 → Insert > Module → Paste the code.
+---
+2. **ID:** Simpan file sebagai Excel Macro-Enabled Workbook (.xlsm).
+   **EN:** Save the file as Excel Macro-Enabled Workbook (.xlsm).
+---
+3. **ID:** Jalankan makro RegisterArabFunctions (opsional) untuk deskripsi fungsi.
+   **EN:** Run the RegisterArabFunctions macro (optional) for function descriptions.
 
 ---
 
