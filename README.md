@@ -22,7 +22,8 @@
 
 ---
 <img width="892" height="221" alt="sshot-6" src="https://github.com/user-attachments/assets/e3ba3dae-8989-4ba6-a39c-a03190cd5d6a" />
----
+--- 
+
 ## 🔧 Instalasi / Installation
 
 1. **ID:** Buka Excel → ALT + F11 → Insert > Module → Paste kode.  
