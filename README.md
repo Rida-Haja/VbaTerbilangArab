@@ -21,8 +21,6 @@
 | **Vocalized** | Dukungan Harakat otomatis. | Optional automatic vowelization (Harakat). |
 
 ---
-<img width="892" height="221" alt="sshot-6" src="https://github.com/user-attachments/assets/e3ba3dae-8989-4ba6-a39c-a03190cd5d6a" />
- 
 
 ## 🔧 Instalasi / Installation
 
@@ -63,7 +61,8 @@
 | **Advanced 8 (f)** | `=TERBILANG_ARAB(8; "umum"; "f"; "u"; ""; ; ; FALSE)` | ثمانٍ |
 
 ---
-
+<img width="892" height="221" alt="sshot-6" src="https://github.com/user-attachments/assets/e3ba3dae-8989-4ba6-a39c-a03190cd5d6a" />
+  
 ## 📦 ID Satuan Benda / Unit IDs (Mode: "benda")
 
 | ID | Kategori / Category | Unit |
