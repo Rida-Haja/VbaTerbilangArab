@@ -86,7 +86,10 @@
 ---
 
 ## 👨‍💻 Author & License
-**Developer:** Rida Rahman
-**Email:** [ridahaja@gmail.com](mailto:ridahaja@gmail.com)  
 
-© 2026 Rida Rahman DH 96-02. Licensed under the **MIT License**.
+* **Developer**: Rida Haja
+* **GitHub**: [@Rida-Haja](https://github.com/Rida-Haja)
+* **Email**: [ridahaja@gmail.com](mailto:ridahaja@gmail.com)
+
+---
+**© 2026 Rida Rahman DH 96-02** Licensed under the [MIT License](https://github.com/Rida-Haja/VbaTerbilangArab/blob/main/LICENSE).
