@@ -1,8 +1,13 @@
 # HajaArabic (VBA Terbilang Arab) 🚀
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![VBA](https://img.shields.io/badge/Language-VBA-blue.svg)
-![Excel](https://img.shields.io/badge/Platform-Excel-green.svg)
+> Fungsi Terbilang Arab untuk Microsoft Excel (Kompatibel 32-bit & 64-bit).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Rida-Haja/VbaTerbilangArab/blob/main/LICENSE)
+[![VBA](https://img.shields.io/badge/Language-VBA-blue.svg)](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[![Excel](https://img.shields.io/badge/Platform-Excel-green.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
+![Architecture](https://img.shields.io/badge/Arch-32--bit%20%7C%2064--bit-orange.svg)
+
+---
 
 **HajaArabic** adalah engine konverter angka ke teks bahasa Arab (*Tafqit*) berbasis VBA dengan akurasi tata bahasa (**Nahwu**) tingkat tinggi. / *A high-precision VBA-based Arabic number-to-words (Tafqit) engine with advanced grammatical accuracy.*
 
