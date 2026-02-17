@@ -86,7 +86,7 @@
 ---
 
 ## 👨‍💻 Author & License
-**Developer:** Rida Rahman  
-**Email:** [RidaHaja@gmail.com](mailto:RidaHaja@gmail.com)  
+**Developer:** Rida Rahman
+**Email:** [ridahaja@gmail.com](mailto:ridahaja@gmail.com)  
 
-© 2026 Rida Rahman. Licensed under the **MIT License**.
+© 2026 Rida Rahman DH 96-02. Licensed under the **MIT License**.
