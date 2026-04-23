@@ -9,9 +9,9 @@
 
 ---
 
-**HajaArabic** adalah engine konverter angka ke teks bahasa Arab (*Tafqit*) berbasis VBA dengan akurasi tata bahasa (**Nahwu**) tingkat tinggi. / *A high-precision VBA-based Arabic number-to-words (Tafqit) engine with advanced grammatical accuracy.*
+**HajaArabic** adalah engine konverter angka ke teks bahasa Arab (*Tafqit*) berbasis VBA dengan akurasi tata bahasa (**Nahwu**). / *A high-precision VBA-based Arabic number-to-words (Tafqit) engine with advanced grammatical accuracy.*
 
-> **📢 Catatan Pengembang:** Kode ini dikembangkan dengan fokus pada presisi linguistik. Walaupun sudah melalui berbagai uji ekstrem (65+ digit), harap lakukan verifikasi ulang untuk penggunaan pada dokumen keuangan yang bersifat kritis. *Feel free to contribute!*
+> **📢 Catatan:** Kode ini dikembangkan dengan fokus pada presisi linguistik. Harap lakukan verifikasi ulang untuk penggunaan pada dokumen keuangan yang bersifat kritis. *Feel free to contribute!*
 ---
 
 ## 🌟 Fitur Utama / Key Features
@@ -20,8 +20,8 @@
 | :--- | :--- | :--- |
 | **Nahwu Engine** | Otomasi Gender, I’rab, dan Idhafah. | Automated Gender, Case (I’rab), and Idhafah rules. |
 | **Ism Manqus** | Logika dinamis untuk angka 8 (`ثماني`). | Dynamic morphology for the number 8. |
-| **Monster Scale** | Mendukung hingga 66 digit (Decilyar). | Supports up to 66 digits (Decilliard). |
-| **Long Scale** | Menggunakan Skala Panjang Eropa. | Engineered for the European Long Scale system. |
+| **Digit** | Mendukung hingga 1000 digit. | Supports up to 1000 digits. |
+| **Scale** | Menggunakan Skala Panjang dan Skala Pendek. | Supports both Long and Short Scale systems. |
 | **3 Styles** | Modern, Klasik, & Sastra (Kecil-ke-Besar). | Modern, Classic, & Literary styles. |
 | **Vocalized** | Dukungan Harakat otomatis. | Optional automatic vowelization (Harakat). |
 
@@ -80,15 +80,12 @@
 ---
 
 ## ⚠️ Batasan / Limitations
-* **ID:** Angka ordinal (urutan) hanya didukung 1–12. Maksimal input 66 digit.
-* **EN:** Ordinal numbers supported for 1–12 only. Maximum input is 66 digits.
+* **ID:** Angka ordinal (urutan) hanya didukung 1–999
+* **EN:** Ordinal numbers supported for 1–999 only.
 
 ---
 
 ## 👨‍💻 Author & License
-
-* **Developer**: Rida Haja
-* **GitHub**: [@Rida-Haja](https://github.com/Rida-Haja)
 * **Email**: [ridahaja@gmail.com](mailto:ridahaja@gmail.com)
 
 ---
